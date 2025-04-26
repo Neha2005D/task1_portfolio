@@ -1,0 +1,40 @@
+/* styles.css */
+        h1{color:darkblue;
+        }
+        b{margin-left:200px ;
+        }
+
+        b{font-size: 20px;
+        }
+
+        h2{margin-left:200px;
+        }
+
+        p{margin-left:200px ;
+        }
+
+        h1{margin-left:200px ;
+        }
+
+        a{margin-left:200px ;
+        }
+
+        img{margin-left:200px ;
+        }
+        
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #ae2727;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            box-shadow: #333;
+            margin-left:200px;
+        }
+        button:hover {
+            background-color: #2ecc71;
+        }
+        ul{margin-left:170px;}
+    
